@@ -1,4 +1,4 @@
-# Dice Roll
+# Quiz App
 A very simple flutter mobile app that aim to introduce the developer to the flutter and dart world.
 
 ## Short Description
